@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="file:///C:/Users/hnc10/Desktop/jason%20folder/jason%20junk/spinning-duck.gif" alt="meteor-client-logo" width="15%"/>
+<img src="https://media.discordapp.net/attachments/1049750986719236177/1255486950622892054/spinning-duck.gif?ex=667d4ed6&is=667bfd56&hm=281418601bfc6fdf4ccdfce3baa48d7dc013eee169d0c8ea3cb8f0d504b113ee&=" alt="silly-duck-spinning" width="15%"/>
 </p>
 
 <h1 align="center">silly</h1>
