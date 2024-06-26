@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://meteorclient.com/icon.png" alt="meteor-client-logo" width="15%"/>
+<img src="file:///C:/Users/hnc10/Desktop/jason%20folder/jason%20junk/spinning-duck.gif" alt="meteor-client-logo" width="15%"/>
 </p>
 
 <h1 align="center">silly</h1>
